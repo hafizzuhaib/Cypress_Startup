@@ -1,8 +1,0 @@
-{
-    "waitForFileChanges": false,
-    "responseTimeout": 60000,
-    "screenshotOnRunFailure": false,
-    "video": false,
-    "baseUrl": "https://opensource-demo.orangehrmlive.com/"
-   
-}
